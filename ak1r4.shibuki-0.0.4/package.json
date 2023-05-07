@@ -1,0 +1,27 @@
+{
+	"name": "shibuki",
+	"displayName": "Shibuki",
+	"description": "Shibuki Theme",
+	"author": "AK1R4",
+	"publisher": "AK1R4",
+	"icon": "images/shibuki.png",
+	"version": "0.0.4",
+	"engines": {
+		"vscode": "^1.69.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "shibuki",
+				"uiTheme": "vs-dark",
+				"path": "./themes/shibuki.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1683418347456
+	}
+}
