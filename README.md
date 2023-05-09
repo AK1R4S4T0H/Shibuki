@@ -5,6 +5,7 @@ __
 #### In a broader sense, "shibuki" can also be used metaphorically to describe a sudden burst of energy, enthusiasm, or impact. It signifies a dynamic and forceful expression, akin to the effect of water splashing or erupting.
 
 ___
+### Currently most of the Syntax Highlighting is for Python, HTML, CSS, Javascript.
 ### **This is the theme I have been perfecting and using for a while, there will be periodic updates.**
 ___
 ### **Thank you for using my Theme!**
