@@ -87,6 +87,12 @@
     }
   },
   {
+    "scope": "comment.line",
+    "settings": {
+      "foreground": "#ffffff"
+    }
+  },
+  {
     "scope": "punctuation.definition.arguments.begin.python,punctuation.definition.arguments.end.python,punctuation.separator.arguments.python,punctuation.definition.list.begin.python,punctuation.definition.list.end.python",
     "settings": {
       "foreground": "#15ff00"
