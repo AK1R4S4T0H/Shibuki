@@ -19,13 +19,22 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "shibuki",
+				"label": "Shibuki",
 				"uiTheme": "vs-dark",
 				"path": "./themes/shibuki.json"
+			},
+			{
+				"label": "Shibuki Light",
+				"uiTheme": "vs",
+				"path": "./themes/shibuki-light.json"
 			}
 		]
 	},
 	"__metadata": {
-		"installedTimestamp": 1683418347456
+		"targetPlatform": "universal",
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"preRelease": false
+
 	}
 }

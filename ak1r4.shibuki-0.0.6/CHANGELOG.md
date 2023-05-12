@@ -12,3 +12,8 @@
 ## [Version 0.0.5]
 
 - Added Repo and License
+
+## [Version 0.0.6]
+
+- Added Light Theme
+- Several Syntax Highlight Updates
