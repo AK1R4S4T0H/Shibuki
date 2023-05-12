@@ -17,3 +17,7 @@
 
 - Added Light Theme
 - Several Syntax Highlight Updates
+
+## [Version 0.0.7]
+
+-

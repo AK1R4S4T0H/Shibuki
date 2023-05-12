@@ -1,7 +1,7 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-  "name": "Shibuki",
-	"type": "dark",
+  "name": "Shibuki Light",
+	"type": "light",
 
 
 "tokenColors": [
