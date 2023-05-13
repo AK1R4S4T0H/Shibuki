@@ -20,4 +20,8 @@
 
 ## [Version 0.0.7]
 
--
+- Fixed Typos, and made slight color adjustments
+
+## [Version 0.0.8]
+
+- 
