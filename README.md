@@ -6,6 +6,8 @@ __
 
 ___
 ### **Shibuki and Shibuki Light Themes**
+![alt text](https://github.com/AK1R4S4T0H/Shibuki/blob/main/ak1r4.shibuki-0.0.6/images/shibuki1.png?raw=true)
+![alt text](https://github.com/AK1R4S4T0H/Shibuki/blob/main/ak1r4.shibuki-0.0.6/images/shibukiLight.png?raw=true)
 ### Currently most of the Syntax Highlighting is for Python, HTML, CSS, Javascript, Bash, JSON, and there is a bit of C++
 ### **This is the theme I have been perfecting and using for a while, there will be periodic updates.**
 ___

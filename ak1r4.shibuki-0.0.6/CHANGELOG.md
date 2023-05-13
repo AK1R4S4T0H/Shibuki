@@ -24,4 +24,8 @@
 
 ## [Version 0.0.8]
 
-- 
+- more Typos
+
+## [Version 0.0.9]
+
+- Added Screenshots to README
