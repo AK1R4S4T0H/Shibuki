@@ -29,3 +29,7 @@
 ## [Version 0.0.9]
 
 - Added Screenshots to README
+
+## [Verison 0.1.0]
+
+- Started working on Midori, and Sakura Shibuki Themes
