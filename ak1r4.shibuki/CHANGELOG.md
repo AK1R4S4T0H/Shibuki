@@ -33,3 +33,7 @@
 ## [Verison 0.1.0]
 
 - Started working on Midori, and Sakura Shibuki Themes
+
+## [Version 0.1.1]
+
+- Added C and C++ Highlighting for the most part
