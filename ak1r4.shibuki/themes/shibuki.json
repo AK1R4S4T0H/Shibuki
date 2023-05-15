@@ -444,9 +444,16 @@
     }
   },
   {
-    "scope": "keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
+    "scope": "keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
     "settings": {
       "foreground": "#ec5fff"
+    }
+  },
+  {
+    "scope": "keyword.operator.increment.c",
+    "settings": {
+      "foreground": "#02f785",
+      "fontStyle": "bold"
     }
   },
   {
