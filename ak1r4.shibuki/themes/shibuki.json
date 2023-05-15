@@ -465,7 +465,28 @@
     }
   },
   {
-    "scope": "keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
+    "scope": "keyword.operator.comparison.cpp",
+    "settings": {
+      "foreground": "#f8630d",
+      "fontStyle": "bold"
+    }
+  },
+  {
+    "scope": "keyword.operator.cpp,keyword.operator.increment.cpp",
+    "settings": {
+      "foreground": "#faf745",
+      "fontStyle": "bold"
+    }
+  },
+  {
+    "scope": "keyword.operator.decrement.cpp",
+    "settings": {
+      "foreground": "#92f80d",
+      "fontStyle": "bold"
+    }
+  },
+  {
+    "scope": "keyword.operator.bitwise.shift.cpp",
     "settings": {
       "foreground": "#ec5fff"
     }
@@ -814,7 +835,13 @@
     }
   },
   {
-    "scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
+    "scope": "markup.italic",
+    "settings": {
+      "foreground": "#00ff62"
+    }
+  },
+  {
+    "scope": "punctuation.definition.italic,todo.emphasis",
     "settings": {
       "foreground": "#8558ff"
     }
@@ -1053,18 +1080,18 @@
       "foreground": "#b300ff"
     }
   },
-  {
-    "scope": "meta.function-call.php,meta.function-call.object.php,meta.function-call.static.php",
-    "settings": {
-      "foreground": "#008CFF"
-    }
-  },
-  {
-    "scope": "punctuation.definition.parameters.begin.bracket.round.php,punctuation.definition.parameters.end.bracket.round.php,punctuation.separator.delimiter.php,punctuation.section.scope.begin.php,punctuation.section.scope.end.php,punctuation.terminator.expression.php,punctuation.definition.arguments.begin.bracket.round.php,punctuation.definition.arguments.end.bracket.round.php,punctuation.definition.storage-type.begin.bracket.round.php,punctuation.definition.storage-type.end.bracket.round.php,punctuation.definition.array.begin.bracket.round.php,punctuation.definition.array.end.bracket.round.php,punctuation.definition.begin.bracket.round.php,punctuation.definition.end.bracket.round.php,punctuation.definition.begin.bracket.curly.php,punctuation.definition.end.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php,punctuation.definition.section.switch-block.start.bracket.curly.php,punctuation.definition.section.switch-block.begin.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php",
-    "settings": {
-      "foreground": "#ff59e6"
-    }
-  },
+  //{
+   // "scope": "meta.function-call.php,meta.function-call.object.php,meta.function-call.static.php",
+    //"settings": {
+    //  "foreground": "#008CFF"
+    //}
+  //},
+ // {
+    //"scope": "punctuation.definition.parameters.begin.bracket.round.php,punctuation.definition.parameters.end.bracket.round.php,punctuation.separator.delimiter.php,punctuation.section.scope.begin.php,punctuation.section.scope.end.php,punctuation.terminator.expression.php,punctuation.definition.arguments.begin.bracket.round.php,punctuation.definition.arguments.end.bracket.round.php,punctuation.definition.storage-type.begin.bracket.round.php,punctuation.definition.storage-type.end.bracket.round.php,punctuation.definition.array.begin.bracket.round.php,punctuation.definition.array.end.bracket.round.php,punctuation.definition.begin.bracket.round.php,punctuation.definition.end.bracket.round.php,punctuation.definition.begin.bracket.curly.php,punctuation.definition.end.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php,punctuation.definition.section.switch-block.start.bracket.curly.php,punctuation.definition.section.switch-block.begin.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php",
+    //"settings": {
+    //  "foreground": "#ff59e6"
+    //}
+ // },
   {
     "scope": "support.constant.core.rust",
     "settings": {
@@ -1136,7 +1163,50 @@
     "settings": {
       "foreground": "#f959ff"
     }
-  }
+  },
+  {
+    "scope": "entity.other.attribute-name.xml, entity.other.attribute-name.localname.xml",
+    "settings": {
+      "foreground": "#33fae9ad"
+    }
+  },
+  {
+    "scope": "text.xml",
+    "settings": {
+      "foreground": "#8bdbe9e3"
+    }
+  },
+  // <YAML>
+  {
+    "scope": "entity.name.tag.yaml",
+    "settings": {
+      "foreground": "#e4e0bd"
+    }
+  },
+  {
+    "scope": "source.yaml",
+    "settings": {
+      "foreground": "#00ffffcc"
+    }
+  },
+  {
+    "scope": "string.unquoted.plain.out.yaml",
+    "settings": {
+      "foreground": "#00b7ffDA"
+    }
+  },
+  {
+    "scope": "meta.flow-sequence.yaml",
+    "settings": {
+      "foreground": "#ff0e56"
+    }
+  },
+  {
+    "scope": "string.unquoted.plain.in.yaml",
+    "settings": {
+      "foreground": "#00ffffcc"
+    }
+  },
 ],
 
 
