@@ -459,7 +459,14 @@
   {
     "scope": "keyword.operator.comparison.c",
     "settings": {
-      "foreground": "#ff7b00",
+      "foreground": "#e6f702",
+      "fontStyle": "bold"
+    }
+  },
+  {
+    "scope": "keyword.operator.c",
+    "settings": {
+      "foreground": "#64f702",
       "fontStyle": "bold"
     }
   },
