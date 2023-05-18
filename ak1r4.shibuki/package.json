@@ -5,7 +5,7 @@
 	"author": "AK1R4",
 	"publisher": "AK1R4",
 	"icon": "images/shibuki.png",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/AK1R4S4T0H/Shibuki"
@@ -27,6 +27,11 @@
 				"label": "Shibuki Light",
 				"uiTheme": "vs",
 				"path": "./themes/shibuki-light.json"
+			},
+			{
+				"label": "Midori",
+				"uiTheme": "vs-dark",
+				"path": "./themes/midori.json"
 			}
 		]
 	},

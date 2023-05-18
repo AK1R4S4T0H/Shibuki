@@ -37,3 +37,7 @@
 ## [Version 0.1.1]
 
 - Added C and C++ Highlighting for the most part
+
+## [Verison 0.1.2]
+
+- Added Midori Theme!
