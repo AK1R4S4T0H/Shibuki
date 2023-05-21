@@ -29,12 +29,12 @@
 				"path": "./themes/shibuki-light.json"
 			},
 			{
-				"label": "Midori",
+				"label": "Shibuki Midori",
 				"uiTheme": "vs-dark",
 				"path": "./themes/midori.json"
 			},
 			{
-				"label": "Kairyu",
+				"label": "Shibuki Kairyu",
 				"uiTheme": "vs",
 				"path": "./themes/kairyu.json"
 			}
