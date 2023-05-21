@@ -45,3 +45,7 @@
 ## [Verison 0.1.3]
 
 - Added Kairyu Theme!
+
+## [Version 0.1.4]
+
+- Updated Kairyu Theme
