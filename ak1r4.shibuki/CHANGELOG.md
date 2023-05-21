@@ -41,3 +41,7 @@
 ## [Verison 0.1.2]
 
 - Added Midori Theme!
+
+## [Verison 0.1.3]
+
+- Added Kairyu Theme!

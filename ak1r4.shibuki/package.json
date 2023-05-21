@@ -32,6 +32,11 @@
 				"label": "Midori",
 				"uiTheme": "vs-dark",
 				"path": "./themes/midori.json"
+			},
+			{
+				"label": "Kairyu",
+				"uiTheme": "vs",
+				"path": "./themes/kairyu.json"
 			}
 		]
 	},
