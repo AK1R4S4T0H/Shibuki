@@ -49,3 +49,7 @@
 ## [Version 0.1.4]
 
 - Updated Kairyu Theme
+
+## [Version 0.1.5]
+
+- Fixed Colors from all Themes

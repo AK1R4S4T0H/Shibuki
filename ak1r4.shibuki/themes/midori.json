@@ -1279,7 +1279,7 @@
   "editorError.border": "#ffffff79",
   "editorError.foreground": "#e0e0e0",
   "editorGroup.border": "#05280d",
-  "editorGroup.emptyBackground": "#130b0b",
+  "editorGroup.emptyBackground": "#00490a",
   "editorGroupHeader.border": "#ffce3cde",
   "editorGroupHeader.tabsBackground": "#031d0a00",
   "editorGroupHeader.tabsBorder": "#ffd041e5",
