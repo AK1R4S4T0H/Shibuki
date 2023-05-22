@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="shibuki" Version="0.1.5" Publisher="AK1R4" />
+			<Identity Language="en-US" Id="shibuki" Version="0.1.6" Publisher="AK1R4" />
 			<DisplayName>Shibuki</DisplayName>
 			<Description xml:space="preserve">Shibuki Theme</Description>
 			<Tags>theme,color-theme,__web_extension,  Visual Studio Code, syntax highlighting, customization</Tags>
 			<Categories>Themes</Categories>
 			<GalleryFlags>Public</GalleryFlags>
 			<Properties>
+				<Property Id="Microsoft.VisualStudio.Code.DisplayName" Value="Shibuki" />
+				<Property Id="Microsoft.VisualStudio.Code.Description" Value="Inspiration, Beauty, Shibuki" />
 				<Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.70.0" />
 				<Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.69.0" />
 				<Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
 				<Property Id="Microsoft.VisualStudio.Code.ExtensionPack" Value="" />
 				<Property Id="Microsoft.VisualStudio.Code.ExtensionKind" Value="ui,workspace,web,languages" />
-				<Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="html, python, css, javascript, c++" />
+				<Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="html, python, css, javascript, c++, markdown, c " />
+				<Property Id="Microsoft.VisualStudio.Code.Tags" Value="theme, syntax, color scheme, Visual Studio Code, syntax highlighting, customization" />
 				<Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
+				<Property Id="Microsoft.VisualStudio.Code.Links.Repository" Value="https://github.com/AK1R4S4T0H/Shibuki" />
+				<Property Id="Microsoft.VisualStudio.Code.Author" Value="AK1R4" />
 				<Property Id="Microsoft.VisualStudio.Services.Content.Pricing" Value="Free"/>
 			</Properties>
 			<Icon>extension/images/shibuki.png</Icon>

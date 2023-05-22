@@ -53,3 +53,8 @@
 ## [Version 0.1.5]
 
 - Fixed Colors from all Themes
+
+## [Version 0.1.6]
+
+- more slight color fixes for more Zen
+- adjustments to syntax highlighting for more Zen with the themes
