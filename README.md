@@ -1,6 +1,7 @@
 ___
 # Shibuki
 __
+
 ### **飛沫** - Shibuki -  is a term used in Japanese to refer to the splash or spray of water that occurs when an object enters or impacts the water surface, It is often associated with the imagery of water splashing or spraying upward, creating a dramatic visual effect.
 #### In a broader sense, "Shibuki" can also be used metaphorically to describe a sudden burst of energy, enthusiasm, or impact. It signifies a dynamic and forceful expression, akin to the effect of water splashing or erupting.
 ___
