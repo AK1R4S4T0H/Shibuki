@@ -11,16 +11,16 @@ ___
 #### It may symbolize a fusion of strength, wisdom, and the ability to navigate through life's challenges with grace. Additionally, it can represent a connection to the natural elements and the harmonious balance between water and mythical creatures.
 ___
 ### **Shibuki and Shibuki Light Themes**
-![Screenshot 1](https://github.com/AK1R4S4T0H/Shibuki/blob/master/ak1r4.shibuki/images/shibuki1.png)
-![Screenshot 1](https://github.com/AK1R4S4T0H/Shibuki/blob/master/ak1r4.shibuki/images/shibukiLight.png)
+![Screenshot 1](https://raw.githubusercontent.com/AK1R4S4T0H/Shibuki/master/ak1r4.shibuki/images/shibuki1.png)
+![Screenshot 1](https://raw.githubusercontent.com/AK1R4S4T0H/Shibuki/master/ak1r4.shibuki/images/shibukiLight.png)
 
 ### **Midori Theme**
-![Screenshot 1](https://github.com/AK1R4S4T0H/Shibuki/blob/master/ak1r4.shibuki/images/midori.png)
+![Screenshot 1](https://raw.githubusercontent.com/AK1R4S4T0H/Shibuki/master/ak1r4.shibuki/images/midori.png)
 
 ### **Kairyu Theme**
-![Screenshot 1](https://github.com/AK1R4S4T0H/Shibuki/blob/master/ak1r4.shibuki/images/kairyu.png)
+![Screenshot 1](https://raw.githubusercontent.com/AK1R4S4T0H/Shibuki/master/ak1r4.shibuki/images/kairyu.png)
 
-### Currently most of the Syntax Highlighting is for Python, HTML, CSS, Javascript, Bash, Markdown, JSON, C, and there is a bit of C++
+### Currently most of the Syntax Highlighting is for Python, HTML, CSS, Javascript, Bash, JSON, and there is a bit of C++
 ### **This is the theme I have been perfecting and using for a while, there will be periodic updates.**
 ___
 ### **Thank you for using my Theme!**
@@ -33,4 +33,4 @@ ___
 ## **修行**
 ___
 
-## **明里**
+## 明里

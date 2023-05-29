@@ -58,3 +58,7 @@
 
 - more slight color fixes for more Zen
 - adjustments to syntax highlighting for more Zen with the themes
+
+## [Version 0.1.7]
+
+- fixed Extension Screenshots
