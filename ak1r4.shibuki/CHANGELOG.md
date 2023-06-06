@@ -62,3 +62,7 @@
 ## [Version 0.1.7]
 
 - fixed Extension Screenshots
+
+## [Version 0.1.8]
+
+-
