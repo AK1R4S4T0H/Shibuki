@@ -5,7 +5,7 @@
 	"author": "AK1R4",
 	"publisher": "AK1R4",
 	"icon": "images/shibuki.png",
-	"version": "0.1.8",
+	"version": "0.1.9",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/AK1R4S4T0H/Shibuki"
@@ -37,6 +37,11 @@
 				"label": "Shibuki Kairyu",
 				"uiTheme": "vs",
 				"path": "./themes/kairyu.json"
+			},
+			{
+				"label": "Shibuki Tengu",
+				"uiTheme": "vs",
+				"path": "./themes/tengu.json"
 			}
 		]
 	},
