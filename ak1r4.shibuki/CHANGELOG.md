@@ -70,3 +70,7 @@
 ## [Version 0.1.9]
 
 - Added Tengu Theme
+
+## [Version 2.0.0]
+
+- Added Shikireki Theme
